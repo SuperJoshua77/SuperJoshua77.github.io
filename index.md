@@ -4,7 +4,7 @@ layout: page
 
 # 何为真理
 
-<img src="https://superjoshua77.github.io/guang.jpg" class="floatpic">
+<img src="guang.jpg" class="floatpic">
 
 这里是 **真理学堂**.<br>
 
