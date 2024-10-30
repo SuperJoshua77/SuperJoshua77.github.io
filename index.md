@@ -2,41 +2,45 @@
 layout: page
 ---
 
-# About Me
+# 何为真理
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
+<img src="https://superjoshua77.github.io/guang.jpg" class="floatpic">
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.<br>
+这里是 **真理学堂**.<br>
 
-I am a graduate student in the Department of Engineering at the University of Cambridge, advised by [Prof. Özgür Akan](https://ioe.eng.cam.ac.uk/directory/akan), within [Internet of Everything (IoE) Group](https://ioe.eng.cam.ac.uk/). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/). Prior to Cambridge,  I have worked on System Engineering, Cybersecurity and Wireless Communication with [Prof. Zhezhuang Xu](https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN) and [Dr. Meng Yuan](https://myuan27.github.io/). Recently, I was honored to be selected as **AAAI-2024 and KDD-2024 Undergraduate Scholars**.<br>
+亲爱的主内家人平安，感谢神让我们在网络中相遇。想请您花1分钟时间思考：
 
-If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - hc663 [at] cam.ac.uk
+1. 您是否已经得着真理?
+2. 您是怎么得到真理的？
+3. 真理中有哪些内容？<br>
 
----
-
-## Research Interests
-
-**I am actively seeking a PhD position for 2025 Fall admission. If you have any information, please contact me!**
-
-- [Internet of Everything](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:internet_of_everything)
-- Molecular Communication
-- Cyber-Physical System
-- Applied Machine Learning
-
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+下面请容许我分享一下圣经中有关真理的内容。您还可以点击各个栏目了解更多。
 
 ---
 
-## News and Updates
+## 一切在圣经中
 
-- **June 2024**：Very excited to be selected as [KDD UC Scholar](https://kdd2024.kdd.org/undergraduate-consortium/). See you in Spain!
-- **May 2024：**My bachelor thesis won the Annual Best Thesis Award (Top 1/300).
-- **April 2024：**Our work *BLEGuard* has been accepted to [MobiSys 2024](https://www.sigmobile.org/mobisys/2024/) as a poster paper. See you in Japan!
-- **March 2024：**Very excited to get a MPhil offer from Engineering department at Cambridge University!
-- **Dec 2023：**Very excited to be selected as [AAAI UC Scholar](https://aaai.org/aaai-conference/undergraduate-consortium-program/). See you in Canada!
-- **Jun 2022：**Started research programme at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò.
+**耶稣说：“我就是道路、真理、生命；若不藉着我，没有人能到父那里去。(约翰福音 14:6 和合本)**
+
+**叫人活着的乃是灵，肉体是无益的。我对你们所说的话就是灵，就是生命。(约翰福音 6:63 和合本)**
+
+**太初有道，道与　神同在，道就是　神。这道太初与　神同在。万物是藉着他造的；凡被造的，没有一样不是藉着他造的。生命在他里头，这生命就是人的光。(约翰福音 1:1-4 和合本)**
+
+从这里经文中，我们是不是能知道真理就是神的一切话语，也就是圣经中所记录的。
+
+那我们都能明白圣经的话语吗？进而明白神的旨意和计划吗？我们在后面的栏目中可以一起来探讨？
+
+---
+
+## 那为什么我一定要明白呢？
+
+**如果你们听过他的道，领了他的教，学了他的真理，就要脱去你们从前行为上的旧人，这旧人是因私欲的迷惑渐渐变坏的。又要将你们的心志改换一新，并且穿上新人，这新人是照着　神的形像造的，有真理的仁义和圣洁。(以弗所书 4:21-24 和合本)**
+
+**“凡称呼我‘主啊，主啊’的人，不能都进天国；惟独遵行我天父旨意的人，才能进去。当那日，必有许多人对我说：‘主啊，主啊，我们不是奉你的名传道，奉你的名赶鬼，奉你的名行许多异能吗？’我就明明地告诉他们说：‘我从来不认识你们，你们这些作恶的人，离开我去吧！’”(马太福音 7:21-23 和合本)**
+
+我们是不是可以确认只有遵行天父旨意才能进天国，要从听道、领神的教训、真理才能改换一新，重新恢复神的样式呢？
 
 <br>
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thrilled to be an AAAI-UC Scholar at <a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a>, thanks to <a href="https://twitter.com/hashtag/AAAI?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI</a> &amp; <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> for the sponsorship. Grateful for the knowledge gained and new friendships formed.<br><br>Wonderful trip in Vancouver. Looking forward to staying connected with all.<a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a> <a href="https://twitter.com/hashtag/Vancouver?src=hash&amp;ref_src=twsrc%5Etfw">#Vancouver</a> <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> <a href="https://t.co/wUQUp8XlSM">pic.twitter.com/wUQUp8XlSM</a></p>&mdash; Hanlin CAI (seeking a PhD position 2025) (@lancecai2002) <a href="https://twitter.com/lancecai2002/status/1762210025173344260?ref_src=twsrc%5Etfw">February 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
